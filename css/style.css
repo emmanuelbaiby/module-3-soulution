@@ -1,0 +1,43 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+
+#navbar{
+    background-color: darkgray;   
+    border: 3px solid black; 
+    padding-bottom: 0;
+    
+}
+
+
+.nav-bar-headlines{
+    padding-bottom: 7px;
+}
+
+div>.nav-link{
+    border-top: 1px black solid;
+}
+.navbar-collapse{
+    text-align: center;
+    margin-top: 15px;
+    background-color: white;
+}
+
+div>h1{
+    margin: 25px auto 25px;
+}
+
+
+
+.small-title{
+    font-size: 25px;
+    font-weight: 600;
+}
+
+#margins-container{
+    background-color: darkgray;
+    margin: 20px;
+}
+
